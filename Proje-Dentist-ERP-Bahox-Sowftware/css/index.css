@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #17a2b8;
+    height: 100vh;
+}
+.login {
+    min-height: 100vh;
+}
+
+.bg-image {
+    background-image: url("../img/disWP1200x900.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.login-heading {
+    font-weight: 300;
+}
+
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+}
+
+
+
+
