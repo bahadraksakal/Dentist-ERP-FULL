@@ -47,17 +47,15 @@
         <li><img src="proje-tanitim-img-video/dentist-erp-yetkili-musDisDetay.png"></li>
       </ul>
   </li>
-  </ol>
-      <h3 color="Red">Video:</h3>
+   <li>
+      <h3 color="Red">Proje Kurulumu Çalıştırılması ve Ek Detaylar:</h3>
+      <ul>
+        <li>[Projenin Kurulumu Ve kullanımı Sesli Anlatım Video](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4)</li>
+      </ul>
+  </li>
+  </ol  
 
 
-
-
-
-
-  
-
-[![Projenin Kurulumu Ve kUllanımı Sesli Anlatım](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4)
 
 
     
