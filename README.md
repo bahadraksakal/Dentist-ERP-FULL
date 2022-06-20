@@ -67,7 +67,7 @@
  <p>İndirdiğiniz dosyayı XAMMP nin kurulu olduğu dizindeki htdocs isimli klasörün içine kopyalayın.</p>
  <p>Xammp.exe yi çalıştırın hem mysql hemde apachenin start edildiğinden emin olun. </p>
  <p>Artık http://localhost/Proje-Dentist-ERP-Bahox-Software/ adresinden Web-Api ye erişebilirsiniz.</p>
- <p>Not: Detaylı kullanım ve anlatım için [videoyu](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4) indirip izleyin</p>
+  <p>Not: Detaylı kullanım ve anlatım için <a href="https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4">videoyu</a> indirip izleyin</p>
 
 
 
