@@ -57,7 +57,7 @@
 
   
 
-https://user-images.githubusercontent.com/72493865/169690002-4d08a63f-ce78-4f8a-abcc-dc8018538937.mp4
+[![Watch the video]]([https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4])
 
 
     
