@@ -37,8 +37,7 @@
         <li><img src="proje-tanitim-img-video/dentist-erp-musteri-kayit.png"></li>
         <li><img src="proje-tanitim-img-video/dentist-erp-musteri-anasayfa.png"></li>
         <li><img src="proje-tanitim-img-video/dentist-erp-musteri-borcOdeme.png"></li>
-        <li><img src="proje-tanitim-img-video/dentist-erp-musteri-borcOdemeErr.png"></li>
-        
+        <li><img src="proje-tanitim-img-video/dentist-erp-musteri-borcOdemeErr.png"></li>        
         <li><img src="proje-tanitim-img-video/dentist-erp-yetkili-kayit.png"></li>
         <li><img src="proje-tanitim-img-video/dentist-erp-yetkili-anasayfa.png"></li>
         <li><img src="proje-tanitim-img-video/dentist-erp-yetkili-musGuncelle.png"></li>
