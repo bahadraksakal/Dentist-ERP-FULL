@@ -49,12 +49,12 @@
   </li>
    <li>
       <h3 color="Red">Proje Kurulumu Çalıştırılması ve Ek Detaylar:</h3>
-      <ul>
-        [JS Game Proje - Mutant Karınca](https://github.com/bahadraksakal/WepProgramlamaProje-JSGAME-MUTANT-KARINCA)
-        <li>[[Projenin Kurulumu Ve kullanımı Sesli Anlatım Video](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4)]</li>
-      </ul>
-  </li>
-  </ol  
+   </li>
+ </ol  
+
+  [Projenin Kurulumu Ve kullanımı Sesli Anlatım Video](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4)
+      
+  
 
 
 
