@@ -60,14 +60,14 @@
  <p>Xammp isimli programı yükleyin takıldığınız yerlerde youtube dan yardım alabilirsiniz.</p>
  <p>Mysql WorkBench isimli programı yükleyin takıldığınız yerlerde youtube dan yardım alabilirsiniz.</p>
  <p>Mysql workbench'i xammp üzerinde çalışan local veritabanına bağlayın.</p>
- <p>Yukarıdaki işlemleri yaptıktan sonra</p> [.sql uzantılı dosyayı repomdan indirin.](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/proje%20dentist%20erp.sql)
+ <p>Yukarıdaki işlemleri yaptıktan sonra [.sql uzantılı dosyayı repomdan indirin.](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/proje%20dentist%20erp.sql)</p>
  <p>İndirdiğiniz sql scriptini , mysql workbench üzerinden çalıştırın. Ve veritabanımız hazır.</p>
  <p>İndirdiğiniz dosyayı XAMMP nin kurulu olduğu dizindeki htdocs isimli klasörün içindeki tüm dosyaları silin.</p>
  <p>Repomda vermiş olduğum </p>[proje dosyasını repomdan indirin.](https://github.com/bahadraksakal/Dentist-ERP-FULL/tree/main/Proje-Dentist-ERP-Bahox-Software)
  <p>İndirdiğiniz dosyayı XAMMP nin kurulu olduğu dizindeki htdocs isimli klasörün içine kopyalayın.</p>
  <p>Xammp.exe yi çalıştırın hem mysql hemde apachenin start edildiğinden emin olun. </p>
  <p>Artık http://localhost/Proje-Dentist-ERP-Bahox-Software/ adresinden Web-Api ye erişebilirsiniz.</p>
- <p>Not: Detaylı kullanım ve anlatım için</p> [videoyu](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4)<p>indirip izleyin</p>
+ <p>Not: Detaylı kullanım ve anlatım için [videoyu](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4) indirip izleyin</p>
 
 
 
