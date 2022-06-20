@@ -57,8 +57,7 @@
 
   
 
-[![Watch the video]](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4)
-<video src="https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4"></video>
+[![Projenin Kurulumu Ve kUllanımı Sesli Anlatım](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/dentist-erp-tanitim-kurulum.mp4)
 
 
     
