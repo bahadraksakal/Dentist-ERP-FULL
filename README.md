@@ -13,7 +13,7 @@
 
 #### [EN]
 
-##### 2\. My Class Spring Term Web Programming Project Final
+## 2\. My Class Spring Term Web Programming Project Final
 
 ###### [Bahox Dentist ERP Webhost000 Site](https://bahoxdentisterp.000webhostapp.com/)
 
@@ -48,7 +48,7 @@
     
      Connect mysql workbench to local database running on xammp.
     
-     After performing the above steps, download the file with [.sql extension] from the repository.](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/proje%20dentist%20erp.sql)
+     After performing the above steps, download the file with [.sql extension from the repository.](https://github.com/bahadraksakal/Dentist-ERP-FULL/blob/main/proje%20dentist%20erp.sql)
     
      Run the sql script you downloaded via mysql workbench. And our database is ready.
     
@@ -85,7 +85,7 @@
 
 #### [TR]
 
-##### 2\. Sınıf Bahar Dönemi Web Programlama Projem Final
+## 2\. Sınıf Bahar Dönemi Web Programlama Projem Final
 
 ###### [Bahox Dentist ERP Webhost000 Site](https://bahoxdentisterp.000webhostapp.com/)
 
